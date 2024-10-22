@@ -1,0 +1,113 @@
+{
+  "titol": "Festival de Música",
+  "descripcio": "Programació del festival de música",
+  "data_inici": "2023-08-15",
+  "data_fi": "2023-08-18",
+  "artistes": [
+    {
+      "nom": "Artista 1",
+      "genere": "Rock",
+      "cançons": [
+        "Cançó 1",
+        "Cançó 2",
+        "Cançó 3"
+      ]
+    },
+    {
+      "nom": "Artista 2",
+      "genere": "Pop",
+      "cançons": [
+        "Cançó 4",
+        "Cançó 5"
+      ]
+    },
+    {
+      "nom": "Bad Bunny",
+      "genere": "Dembow",
+      "cançons": [
+        "Safaera",
+        "Chambea"
+      ]
+    },
+    {
+      "nom": "Anuel AA",
+      "genere": "Trap",
+      "cançons": [
+        "Secreto",
+        "Headshot"
+      ]
+    },
+    {
+      "nom": "Bad Gyal",
+      "genere": "Reguéton",
+      "cançons":[
+      "Bom Bon",
+      "Gyal"
+    ]
+    },
+    {
+      "nom": "Morad",
+      "genere": "Trap",
+      "cançons": [
+        "Paris con Hakimi",
+        "MDLR"
+      ]
+    },
+    {
+      "nom": "One Direction",
+      "genere": "Pop",
+      "canços": [
+        "What Makes Beautiful",
+        "Story of my life"
+      ]
+    },
+    {
+      "nom": "Rosario Flores",
+      "genere": "Pop",
+      "canços": [
+        "Run Run",
+        "No dudaria"
+      ]
+    }
+  ],
+  "escenaris": [
+    {
+      "nom": "Escenari Principal",
+      "horari": "20:00 - 00:00",
+      "artistes_programats": [
+        "Artista 1",
+        "Artista 2"
+      ]
+    },
+    {
+      "nom": "Escenari Secundari",
+      "horari": "18:00 - 23:00",
+      "artistes_programats": [
+        "Artista 1"
+      ]
+    },
+    {
+      "nom": "Escenari Pepsi",
+      "horari": "10:00 - 12:00",
+      "artistes_programats": [
+        "Anuel AA"
+      ]
+    },
+    {
+      "nom": "Cocacola time",
+      "horari": "10:00 - 13:00",
+      "artistes_programats": [
+        "Morad",
+        "Bad Gyal"
+      ]
+    },
+    {
+      "nom": "Escenari Apartat",
+      "horari": "17:00 - 18:00",
+      "artistes_programats": [
+        "Artista 1",
+        "Artista 2"
+      ]
+    }
+  ]
+}
